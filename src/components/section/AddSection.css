@@ -1,0 +1,23 @@
+#dad{
+    width: 70%;
+    flex-direction: column;
+    display: flex;
+}
+
+#Add{
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+}
+
+#fields{
+    width: 85%;
+    display: flex;
+    align-content: space-between;
+}
+
+#button{
+    width: 15%;
+    display: flex;
+    align-items: flex-end;
+}

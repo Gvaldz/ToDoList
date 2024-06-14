@@ -1,0 +1,13 @@
+#todo{
+    width: 70%;
+    margin-top: 30px;
+}
+
+#textdiv{
+    width: 100%;
+    background-color: black;
+    border-radius: 10px;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+}
